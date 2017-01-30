@@ -1,0 +1,120 @@
+{"level":"info","message":"success","timestamp":"1/28/2017, 2:44:26 PM"}
+{"level":"info","message":"success","timestamp":"1/28/2017, 5:32:54 PM"}
+{"responseTime":"16 ms","url":"/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 55.0.2883 / Windows 10 0.0.0","level":"info","message":"","timestamp":"1/28/2017, 5:32:54 PM"}
+{"level":"info","message":"success","timestamp":"1/28/2017, 5:34:58 PM"}
+{"responseTime":"15 ms","url":"/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 55.0.2883 / Windows 10 0.0.0","level":"info","message":"","timestamp":"1/28/2017, 5:34:58 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 6:45:22 PM"}
+{"level":"info","message":"Disconnected to mongo DB","timestamp":"1/28/2017, 6:45:39 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 6:45:50 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 6:46:06 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 7:06:54 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 7:07:14 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 7:07:19 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 7:13:26 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 7:13:53 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 7:14:17 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 7:14:23 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 7:14:38 PM"}
+{"responseTime":"3 ms","url":"/profile","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 55.0.2883 / Windows 10 0.0.0","level":"info","message":"","timestamp":"1/28/2017, 7:14:46 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 7:14:57 PM"}
+{"responseTime":"3 ms","url":"/profile","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 55.0.2883 / Windows 10 0.0.0","level":"info","message":"","timestamp":"1/28/2017, 7:14:58 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 7:15:07 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 7:16:33 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 7:16:51 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 7:17:03 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 7:20:48 PM"}
+{"responseTime":"9 ms","url":"/profile","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 55.0.2883 / Windows 10 0.0.0","level":"info","message":"","timestamp":"1/28/2017, 7:20:57 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 7:21:47 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 7:22:07 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 7:23:01 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 7:23:43 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 7:25:26 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 7:25:45 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 7:27:06 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 7:27:21 PM"}
+{"responseTime":"2 ms","url":"/profile","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 55.0.2883 / Windows 10 0.0.0","level":"info","message":"","timestamp":"1/28/2017, 7:27:23 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 7:29:31 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 7:29:36 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 7:31:34 PM"}
+{"responseTime":"2 ms","url":"/profile","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 55.0.2883 / Windows 10 0.0.0","level":"info","message":"","timestamp":"1/28/2017, 7:31:35 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 7:32:22 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 7:32:38 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 7:33:12 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 7:33:43 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 7:34:02 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 7:34:40 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 7:34:46 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 7:35:43 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 7:36:08 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 7:36:41 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 7:37:02 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 7:38:32 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 7:38:35 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 7:39:21 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 7:39:26 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 7:39:37 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 7:39:56 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 7:40:08 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 7:40:20 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 7:40:47 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 7:40:55 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 7:41:29 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 7:42:07 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 7:42:16 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 7:50:25 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 7:50:42 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 7:50:58 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 7:53:15 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 7:53:20 PM"}
+{"responseTime":"19 ms","url":"/profile","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 55.0.2883 / Windows 10 0.0.0","level":"info","message":"","timestamp":"1/28/2017, 7:53:33 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 7:55:54 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 7:56:28 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 7:56:39 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 7:56:48 PM"}
+{"responseTime":"18 ms","url":"/profile/588ca5cac28ca9c02d758455","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 55.0.2883 / Windows 10 0.0.0","level":"info","message":"","timestamp":"1/28/2017, 7:56:56 PM"}
+{"responseTime":"5 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 55.0.2883 / Windows 10 0.0.0","level":"info","message":"","timestamp":"1/28/2017, 7:57:54 PM"}
+{"level":"error","message":"Error Connecting to mongo DB","timestamp":"1/28/2017, 7:57:54 PM"}
+{"level":"info","message":"success","timestamp":"1/28/2017, 7:57:54 PM"}
+{"responseTime":"8 ms","url":"/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 55.0.2883 / Windows 10 0.0.0","level":"info","message":"","timestamp":"1/28/2017, 7:57:54 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 7:57:57 PM"}
+{"responseTime":"20 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 55.0.2883 / Windows 10 0.0.0","level":"info","message":"","timestamp":"1/28/2017, 7:58:01 PM"}
+{"responseTime":"5 ms","url":"/profile/588ca5cac28ca9c02d758455","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 55.0.2883 / Windows 10 0.0.0","level":"info","message":"","timestamp":"1/28/2017, 7:58:11 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 8:07:44 PM"}
+{"responseTime":"23 ms","url":"/profile","Request Method":"POST","Ip":"::1","User-Agent":"Chrome 55.0.2883 / Windows 10 0.0.0","level":"info","message":"","timestamp":"1/28/2017, 8:07:53 PM"}
+{"responseTime":"5 ms","url":"/profile","Request Method":"POST","Ip":"::1","User-Agent":"Chrome 55.0.2883 / Windows 10 0.0.0","level":"info","message":"","timestamp":"1/28/2017, 8:08:48 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 8:09:08 PM"}
+{"responseTime":"34 ms","url":"/profile","Request Method":"POST","Ip":"::1","User-Agent":"Chrome 55.0.2883 / Windows 10 0.0.0","level":"info","message":"","timestamp":"1/28/2017, 8:09:17 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 8:09:50 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 8:10:22 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 8:10:29 PM"}
+{"responseTime":"34 ms","url":"/profile","Request Method":"POST","Ip":"::1","User-Agent":"Chrome 55.0.2883 / Windows 10 0.0.0","level":"info","message":"","timestamp":"1/28/2017, 8:10:30 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 8:10:44 PM"}
+{"responseTime":"35 ms","url":"/profile","Request Method":"POST","Ip":"::1","User-Agent":"Chrome 55.0.2883 / Windows 10 0.0.0","level":"info","message":"","timestamp":"1/28/2017, 8:10:45 PM"}
+{"responseTime":"14 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 55.0.2883 / Windows 10 0.0.0","level":"info","message":"","timestamp":"1/28/2017, 8:12:08 PM"}
+{"responseTime":"666 ms","url":"/profile","Request Method":"POST","Ip":"::1","User-Agent":"Chrome 55.0.2883 / Windows 10 0.0.0","level":"info","message":"","timestamp":"1/28/2017, 8:12:45 PM"}
+{"responseTime":"9 ms","url":"/profile","Request Method":"POST","Ip":"::1","User-Agent":"Chrome 55.0.2883 / Windows 10 0.0.0","level":"info","message":"","timestamp":"1/28/2017, 8:12:45 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 8:13:52 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 8:14:22 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 8:14:26 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 8:14:43 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 8:14:49 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 8:16:23 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 8:16:29 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 8:17:27 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 8:17:56 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 8:17:59 PM"}
+{"responseTime":"71 ms","url":"/profile","Request Method":"POST","Ip":"::1","User-Agent":"Chrome 55.0.2883 / Windows 10 0.0.0","level":"info","message":"","timestamp":"1/28/2017, 8:26:52 PM"}
+{"responseTime":"12 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 55.0.2883 / Windows 10 0.0.0","level":"info","message":"","timestamp":"1/28/2017, 8:27:05 PM"}
+{"responseTime":"12 ms","url":"/profile/588cb134561e1529ec730597","Request Method":"PATCH","Ip":"::1","User-Agent":"Chrome 55.0.2883 / Windows 10 0.0.0","level":"info","message":"","timestamp":"1/28/2017, 8:28:14 PM"}
+{"responseTime":"3 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 55.0.2883 / Windows 10 0.0.0","level":"info","message":"","timestamp":"1/28/2017, 8:28:17 PM"}
+{"responseTime":"4 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 55.0.2883 / Windows 10 0.0.0","level":"info","message":"","timestamp":"1/28/2017, 8:28:53 PM"}
+{"responseTime":"6 ms","url":"/profile/588cb134561e1529ec730597","Request Method":"PATCH","Ip":"::1","User-Agent":"Chrome 55.0.2883 / Windows 10 0.0.0","level":"info","message":"","timestamp":"1/28/2017, 8:28:59 PM"}
+{"responseTime":"3 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 55.0.2883 / Windows 10 0.0.0","level":"info","message":"","timestamp":"1/28/2017, 8:29:01 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 8:30:07 PM"}
+{"responseTime":"19 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 55.0.2883 / Windows 10 0.0.0","level":"info","message":"","timestamp":"1/28/2017, 8:30:09 PM"}
+{"responseTime":"4 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 55.0.2883 / Windows 10 0.0.0","level":"info","message":"","timestamp":"1/28/2017, 8:30:10 PM"}
+{"responseTime":"2 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 55.0.2883 / Windows 10 0.0.0","level":"info","message":"","timestamp":"1/28/2017, 8:30:10 PM"}
+{"responseTime":"3 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 55.0.2883 / Windows 10 0.0.0","level":"info","message":"","timestamp":"1/28/2017, 8:30:10 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 8:30:23 PM"}
+{"responseTime":"20 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 55.0.2883 / Windows 10 0.0.0","level":"info","message":"","timestamp":"1/28/2017, 8:30:26 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"1/28/2017, 8:31:06 PM"}
