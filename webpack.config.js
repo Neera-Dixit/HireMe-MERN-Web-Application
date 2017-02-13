@@ -29,6 +29,9 @@ var clientMainPath = path.resolve(__dirname, 'src', 'main.jsx');
                     presets:['es2015','react']
                   }
             }]
+         },
+         devServer: {
+            inline:true
          }
     }
 
