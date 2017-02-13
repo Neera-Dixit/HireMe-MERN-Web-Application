@@ -3,7 +3,7 @@ import config from '../config/config';
 import {EventEmitter} from 'events';
 import Dispatcher from '../dispatcher/dispatcher';
 
-class JobStore extends EventEmitter{
+class JobStore extends EventEmitter {
  
   constructor(){
     super();
@@ -19,7 +19,7 @@ class JobStore extends EventEmitter{
     AjaxService.get(config.getJobsUrl)
     .then((data)=>{
       this.jobs=data;
-      //this.emit('change');
+      this.emit('change');
     })
     .catch((err)=>{
       console.log(err);

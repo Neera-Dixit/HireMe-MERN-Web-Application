@@ -1,0 +1,37 @@
+{
+ "name" : "Neeraj Dixit",
+ "companyname" : "Tesco",
+ "location" : "Bangalore",
+ "experience" : "2-4 years",
+ "description" : "Openings available for java Domain"
+}
+
+------------------
+
+{
+	"skills": [{
+		"name": "React.js",
+		"proficiency": "45"
+	}],
+	"projects": [{
+		"name": "Grocery Web App",
+		"description": "Allows users to Buy Grocery Items",
+		"github": "https://github.com/Neera-Dixit/Grocery-Web-Application-using-MERN-Stack-Mongodb-Express.js-React.js-and-Node.js-/blob/master/server/main.js",
+		"url": ""
+	}],
+	"personalinfo": {
+		"name": "Nikhil Dixit",
+		"aboutme": "Freelancer",
+		"role": "Developer",
+		"sex": "Male",
+		"age": "23",
+		"place": "Bangalore",
+		"country": "India",
+		"imageurl" : "nikhil",
+		"emailid": "neerajdixit27@gmail.com",
+		"github": "https://github.com/Neera-Dixit/",
+		"facebook": "https://www.facebook.com/neerajdixit27",
+		"linkedin": "https://in.linkedin.com/in/neeraj-dixit-03827557"
+	}
+
+}

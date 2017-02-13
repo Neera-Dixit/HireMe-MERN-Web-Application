@@ -4,7 +4,7 @@ import ViewJobs from './viewjobs/index';
 import AboutUs from './aboutus/index';
 import PostJob from './postjob/index';
 import App from './app';
-import IndexComponent from './index'; 
+import UserProfile from './userprofile/index'; 
 
 export default class AppRouter extends React.Component{
 	constructor(props){
@@ -15,7 +15,7 @@ export default class AppRouter extends React.Component{
 		return (
 		  <Router history={browserHistory}>
 			<Route path="/" component={App}>
-				<IndexRoute component={IndexComponent}/>
+				<IndexRoute component={UserProfile}/>
 				<Route path="viewjobs" component={ViewJobs}/>
 				<Route path="postjob" component={PostJob}/>
 				<Route path="aboutus" component={AboutUs}/>
