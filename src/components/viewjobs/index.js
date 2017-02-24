@@ -2,22 +2,26 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import JobDescription from './JobDescription';
 import JobStore from '../../stores/jobStore';
+import jobActions from '../../actions/jobActions';
 
 export default class ViewJobs extends React.Component{
 
 	constructor(props){
 		super(props);
-		console.log("changed");
-		this.state = {jobs:JobStore.getJobs()};
+		this.state = {jobs:[]};
 		this.getJobs=this.getJobs.bind(this);
 	}
 
-	componentDidMount(){
-		JobStore.on('change',this.getJobs);
+	componentWillMount(){
+		JobStore.on('jobsFetched',this.getJobs);
 	}
 
-	componentWillUnMount(){
-		JobStore.removeListener('change',this.getJobs);
+	componentDidMount(){
+		jobActions.fetchJobs();
+	}
+
+	componentWillUnmount(){
+		JobStore.removeListener('jobsFetched',this.getJobs);
 	}
 
 	getJobs(){
@@ -25,11 +29,8 @@ export default class ViewJobs extends React.Component{
 	}
 
 	render(){
-
-		console.log("jobs :"+this.state.jobs);
 		
 		const jobs=this.state.jobs.map((job)=>{
-			console.log(job);
 			return <JobDescription key={job._id} jobData={job}/>
 		});
 

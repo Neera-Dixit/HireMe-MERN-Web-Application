@@ -1,4 +1,5 @@
 import React from 'react';
+import {Link} from 'react-router';
 
 export default class UserProfile extends React.Component {
 
@@ -10,11 +11,12 @@ export default class UserProfile extends React.Component {
 
 		const {skills,projects,personalinfo}=this.props;
 
-		const imageUrl=`assets/images/profilepics/${personalinfo.imageurl}.jpg`;
+		const imageUrl=`http://localhost:7845/assets/images/profilepics/${personalinfo.imageurl}.jpg`;
 
-			return (<div className="container">
-			<div className="row">
-				<div className="col-lg-3 col-sm-6">
+		const userProfileUrl=`userprofile/${this.props._id}`;
+
+			return (
+				  <div id="userProfile">
 				 	<div className="card hovercard">
 				 		<div className="cardheader"></div>
 		                <div className="avatar">
@@ -22,7 +24,7 @@ export default class UserProfile extends React.Component {
 		                </div>
 		                <div className="info">
 		                    <div className="title">
-		                        <a target="_blank" href="assets/images/profilepics/${personalinfo.imageurl}">{personalinfo.name}</a>
+		                        <Link to={userProfileUrl}>{personalinfo.name}</Link>
 		                    </div>
 		                    <div className="desc">{personalinfo.aboutme}</div>
 		                    <div className="desc">{personalinfo.role}</div>
@@ -43,8 +45,8 @@ export default class UserProfile extends React.Component {
 
 		                </div>
 		            </div>
-		          </div>
-		        </div>
-		      </div> ); 
+		           </div>
+
+		       ); 
 	}
 }

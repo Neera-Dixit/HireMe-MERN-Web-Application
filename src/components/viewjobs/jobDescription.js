@@ -7,7 +7,6 @@ export default class JobDescription extends React.Component {
 	}
 
 	render(){
-		//postTime
 
 		const {name,companyname,location,experience,description}=this.props.jobData;
 

@@ -4,8 +4,15 @@ let jobActions = {
 
 	postNewJob : (jobData)=>{
 		Dispatcher.dispatch({
-			actionType : "NewJobPost",
+			actionType : "POSTNEWJOB",
 			jobData
+		});
+
+	},
+
+	fetchJobs : ()=>{
+		Dispatcher.dispatch({
+			actionType : "FETCHJOBS"
 		});
 
 	}

@@ -12,14 +12,13 @@ class JobStore extends EventEmitter {
   	this.getJobs=this.getJobs.bind(this);
     this.fetchJobsFromDB=this.fetchJobsFromDB.bind(this);
     this.postJobsToDB=this.postJobsToDB.bind(this);
-    this.fetchJobsFromDB();
   }
 
   fetchJobsFromDB(){
     AjaxService.get(config.getJobsUrl)
     .then((data)=>{
       this.jobs=data;
-      this.emit('change');
+      this.emit('jobsFetched');
     })
     .catch((err)=>{
       console.log(err);
@@ -43,11 +42,16 @@ class JobStore extends EventEmitter {
   jobActionsListener(actionObj){
 
     switch(actionObj.actionType){
-      case 'NewJobPost' : {
-                              this.postJobsToDB(actionObj.jobData);
-                              break;
-                           }
-    }
+            case 'POSTNEWJOB' : {
+                                  this.postJobsToDB(actionObj.jobData);
+                                   break;
+                                }
+
+           case 'FETCHJOBS' : {
+                                this.fetchJobsFromDB();
+                                 break;
+                              }
+       }
 
   }
 

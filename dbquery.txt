@@ -12,15 +12,25 @@
 	"skills": [{
 		"name": "React.js",
 		"proficiency": "45"
-	}],
+	},
+	{
+		"name": "Node.js",
+		"proficiency": "85"
+	}
+	],
 	"projects": [{
 		"name": "Grocery Web App",
 		"description": "Allows users to Buy Grocery Items",
 		"github": "https://github.com/Neera-Dixit/Grocery-Web-Application-using-MERN-Stack-Mongodb-Express.js-React.js-and-Node.js-/blob/master/server/main.js",
 		"url": ""
+	},{
+		"name": "Hire Me Web App",
+		"description": "Allows users to Buy Grocery Items",
+		"github": "https://github.com/Neera-Dixit/Grocery-Web-Application-using-MERN-Stack-Mongodb-Express.js-React.js-and-Node.js-/blob/master/server/main.js",
+		"url": "http://localhost:7845/"
 	}],
 	"personalinfo": {
-		"name": "Nikhil Dixit",
+		"name": "anonymous",
 		"aboutme": "Freelancer",
 		"role": "Developer",
 		"sex": "Male",

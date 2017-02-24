@@ -8,10 +8,6 @@ class UserProfileStore extends EventEmitter {
   constructor(){
     super();
     this.userProfiles=[];
-
-  	this.getUserProfiles=this.getUserProfiles.bind(this);
-    this.fetchUserProfileFromDB=this.fetchUserProfileFromDB.bind(this);
-    
     this.fetchUserProfileFromDB();
   }
 
@@ -19,8 +15,7 @@ class UserProfileStore extends EventEmitter {
     AjaxService.get(config.getUserProfileUrl)
     .then((data)=>{
       this.userProfiles=data;
-      //console.log(data);
-      this.emit('change');
+      this.emit('userProfileFetched');
     })
     .catch((err)=>{
       console.log(err);
@@ -32,8 +27,34 @@ class UserProfileStore extends EventEmitter {
   	return this.userProfiles;
   }
 
+  findUserByProfileId(userProfileId){
+
+    for(var user of this.userProfiles){
+        if(user._id === userProfileId){
+          return user;
+        }
+    }
+  }
+
+  userProfileActionListener(action){
+
+    switch(action.actionType){
+        case 'FETCHUSERPROFILE' : {
+            this.fetchUserProfileFromDB();
+            break;
+        }
+
+        case 'FINDUSERPROFILE' : {
+            this.findUserByProfileId(action.userProfileId)
+            break;
+        }
+    }
+  }
+
+
 
 }
 
 let userProfileStore = new UserProfileStore();
+Dispatcher.register(userProfileStore.userProfileActionListener.bind(userProfileStore));
 export default userProfileStore;

@@ -27,10 +27,8 @@ export default class PostJob extends React.Component{
       "experience" : this.experience.value,
       "description" : this.jobdesc.value
     };
-    browserHistory.push('/viewjobs');
     jobActions.postNewJob(jobData);
-
-    //console.log(`${this.compName.value} ${this.joblocation.value} ${this.experience.value} ${this.jobdesc.value}`);
+    browserHistory.push('/viewjobs');
     
   }
 
