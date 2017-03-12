@@ -6,9 +6,7 @@ var clientBuildPath = path.resolve(__dirname, 'public', 'build');
 var clientMainPath = path.resolve(__dirname, 'src', 'main.jsx');
 
 
- module.exports = 
-
-    {
+ module.exports = {
          name : 'client',
          target : 'web',
          entry:  [
@@ -16,7 +14,7 @@ var clientMainPath = path.resolve(__dirname, 'src', 'main.jsx');
                 ],
          output: {
              path: clientBuildPath,
-             publicPath: "/build/",
+             publicPath: "http://localhost:8080/build",
              filename: 'bundleclient.js'
          },
          module: {
@@ -24,5 +22,6 @@ var clientMainPath = path.resolve(__dirname, 'src', 'main.jsx');
             test: /\.jsx?$/,
             exclude: /node_modules/,
             loaders: ['babel-loader']
-         }
+         }]
+        }
     };

@@ -29,6 +29,10 @@ nav.navbar{
     margin-bottom: 0;
 }
 
+a:focus, a:hover{
+    color:inherit;
+}
+
 #aboutme{
     border: 1px solid grey;
     width: 60%;

@@ -9,7 +9,7 @@ export default class Header extends React.Component{
 	render(){
 		return (
 			  
-			  	<nav className="navbar navbar-inverse" id="header">
+				<nav className="navbar navbar-inverse" id="header">
 				  <div className="container-fluid">
 				    <div className="navbar-header">
 		    	       <Link className="navbar-brand" to="/">
@@ -23,7 +23,9 @@ export default class Header extends React.Component{
 						<li><Link to="aboutus" activeClassName="routeActive">About Us</Link></li>
 				    </ul>
 				  </div>
-				</nav>
+				</nav>		
+
+	
 			 
 		);
 	}

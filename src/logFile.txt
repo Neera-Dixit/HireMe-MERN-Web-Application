@@ -7904,3 +7904,669 @@
 {"level":"info","message":"Connected to mongo DB","timestamp":"3/12/2017, 3:56:28 PM"}
 {"level":"info","message":"Connected to mongo DB","timestamp":"3/12/2017, 3:56:54 PM"}
 {"level":"info","message":"Connected to mongo DB","timestamp":"3/12/2017, 3:57:34 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"3/12/2017, 3:57:53 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 3:57:57 PM"}
+{"responseTime":"71 ms","url":"/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 3:57:57 PM"}
+{"responseTime":"23 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 3:57:58 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 3:57:59 PM"}
+{"responseTime":"3 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 3:57:59 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 3:58:01 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 3:58:01 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 3:58:04 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 3:58:04 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 4:10:54 PM"}
+{"responseTime":"6 ms","url":"/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 4:10:54 PM"}
+{"responseTime":"9 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 4:10:55 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 4:10:56 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 4:10:56 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 4:10:57 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 4:10:57 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 4:10:59 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 4:10:59 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 4:23:09 PM"}
+{"responseTime":"53 ms","url":"/","Request Method":"GET","Ip":"::ffff:127.0.0.1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 4:23:09 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"3/12/2017, 4:23:09 PM"}
+{"responseTime":"30 ms","url":"/profile/","Request Method":"GET","Ip":"::ffff:127.0.0.1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 4:23:10 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 4:23:11 PM"}
+{"responseTime":"3 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::ffff:127.0.0.1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 4:23:11 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"3/12/2017, 4:23:22 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 4:23:23 PM"}
+{"responseTime":"12 ms","url":"/build/c7d8d439093fbaba7e6b.hot-update.json","Request Method":"GET","Ip":"::ffff:127.0.0.1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 4:23:23 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 4:23:23 PM"}
+{"responseTime":"3 ms","url":"/","Request Method":"GET","Ip":"::ffff:127.0.0.1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 4:23:23 PM"}
+{"responseTime":"31 ms","url":"/profile/","Request Method":"GET","Ip":"::ffff:127.0.0.1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 4:23:24 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 4:23:25 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::ffff:127.0.0.1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 4:23:25 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"3/12/2017, 4:23:34 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 4:23:34 PM"}
+{"responseTime":"18 ms","url":"/build/4f4deed89db086233c79.hot-update.json","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 4:23:34 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"3/12/2017, 4:24:35 PM"}
+{"level":"error","message":"Error Connecting to mongo DB","timestamp":"3/12/2017, 6:55:42 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 6:57:10 PM"}
+{"responseTime":"13 ms","url":"/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 6:57:10 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 6:57:12 PM"}
+{"responseTime":"4 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 6:57:12 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 6:59:47 PM"}
+{"responseTime":"2 ms","url":"/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 6:59:47 PM"}
+{"responseTime":"34 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 6:59:48 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 6:59:49 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 6:59:49 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"3/12/2017, 7:00:13 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:00:13 PM"}
+{"responseTime":"12 ms","url":"/build/c7d8d439093fbaba7e6b.hot-update.json","Request Method":"GET","Ip":"::ffff:127.0.0.1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:00:13 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"3/12/2017, 7:01:38 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:01:46 PM"}
+{"responseTime":"12 ms","url":"/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:01:46 PM"}
+{"responseTime":"23 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:01:46 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:01:48 PM"}
+{"responseTime":"3 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:01:48 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"3/12/2017, 7:01:56 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:01:56 PM"}
+{"responseTime":"12 ms","url":"/build/f044570e61f308a3c4a2.hot-update.json","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:01:56 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"3/12/2017, 7:02:19 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:02:21 PM"}
+{"responseTime":"11 ms","url":"/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:02:21 PM"}
+{"responseTime":"28 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:02:22 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:02:23 PM"}
+{"responseTime":"3 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:02:23 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"3/12/2017, 7:02:37 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:02:37 PM"}
+{"responseTime":"12 ms","url":"/build/a128525eaadc59bc3bf9.hot-update.json","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:02:37 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"3/12/2017, 7:02:43 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"3/12/2017, 7:02:50 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"3/12/2017, 7:02:56 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"3/12/2017, 7:03:32 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:03:35 PM"}
+{"responseTime":"13 ms","url":"/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:03:35 PM"}
+{"responseTime":"29 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:03:36 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:03:38 PM"}
+{"responseTime":"3 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:03:38 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"3/12/2017, 7:03:47 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:03:47 PM"}
+{"responseTime":"11 ms","url":"/build/58432880f6ecb0cbbf2a.hot-update.json","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:03:47 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"3/12/2017, 7:03:52 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:04:10 PM"}
+{"responseTime":"12 ms","url":"/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:04:10 PM"}
+{"responseTime":"30 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:04:10 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:04:12 PM"}
+{"responseTime":"3 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:04:12 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"3/12/2017, 7:04:17 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:04:25 PM"}
+{"responseTime":"11 ms","url":"/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:04:25 PM"}
+{"responseTime":"22 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:04:25 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:04:25 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:04:25 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"3/12/2017, 7:05:04 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:05:11 PM"}
+{"responseTime":"12 ms","url":"/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:05:11 PM"}
+{"responseTime":"22 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:05:12 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:05:14 PM"}
+{"responseTime":"3 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:05:14 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"3/12/2017, 7:05:28 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:05:32 PM"}
+{"responseTime":"12 ms","url":"/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:05:32 PM"}
+{"responseTime":"30 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:05:33 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:05:33 PM"}
+{"responseTime":"3 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:05:33 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"3/12/2017, 7:06:33 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:07:04 PM"}
+{"responseTime":"13 ms","url":"/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:07:04 PM"}
+{"responseTime":"24 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:07:04 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:07:06 PM"}
+{"responseTime":"3 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:07:06 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"3/12/2017, 7:07:15 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:07:15 PM"}
+{"responseTime":"11 ms","url":"/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:07:15 PM"}
+{"responseTime":"27 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:07:16 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:07:18 PM"}
+{"responseTime":"3 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:07:18 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"3/12/2017, 7:07:25 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:07:25 PM"}
+{"responseTime":"13 ms","url":"/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:07:25 PM"}
+{"responseTime":"29 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:07:25 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:07:26 PM"}
+{"responseTime":"3 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:07:26 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"3/12/2017, 7:07:59 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:07:59 PM"}
+{"responseTime":"12 ms","url":"/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:07:59 PM"}
+{"responseTime":"28 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:08:00 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:08:00 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:08:00 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:08:04 PM"}
+{"responseTime":"17 ms","url":"/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:08:04 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"3/12/2017, 7:08:04 PM"}
+{"responseTime":"30 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:08:05 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:08:05 PM"}
+{"responseTime":"3 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::ffff:127.0.0.1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:08:05 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:10:15 PM"}
+{"responseTime":"18 ms","url":"/","Request Method":"GET","Ip":"::ffff:127.0.0.1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:10:15 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"3/12/2017, 7:10:15 PM"}
+{"responseTime":"28 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:10:16 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:10:16 PM"}
+{"responseTime":"3 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::ffff:127.0.0.1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:10:16 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"3/12/2017, 7:10:39 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:10:39 PM"}
+{"responseTime":"11 ms","url":"/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:10:39 PM"}
+{"responseTime":"29 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:10:40 PM"}
+{"responseTime":"8 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:10:40 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:10:40 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:10:40 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"3/12/2017, 7:11:08 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:11:08 PM"}
+{"responseTime":"12 ms","url":"/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:11:08 PM"}
+{"responseTime":"31 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:11:08 PM"}
+{"responseTime":"8 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:11:09 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:11:09 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:11:09 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"3/12/2017, 7:11:14 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:11:14 PM"}
+{"responseTime":"11 ms","url":"/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:11:14 PM"}
+{"responseTime":"29 ms","url":"/profile/","Request Method":"GET","Ip":"::ffff:127.0.0.1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:11:14 PM"}
+{"responseTime":"7 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:11:15 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:11:15 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:11:15 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"3/12/2017, 7:11:20 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:11:20 PM"}
+{"responseTime":"12 ms","url":"/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:11:20 PM"}
+{"responseTime":"29 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:11:21 PM"}
+{"responseTime":"7 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:11:21 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:11:21 PM"}
+{"responseTime":"3 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:11:21 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:11:26 PM"}
+{"responseTime":"1 ms","url":"/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:11:26 PM"}
+{"responseTime":"8 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:11:26 PM"}
+{"responseTime":"5 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:11:26 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:11:26 PM"}
+{"responseTime":"1 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:11:26 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"3/12/2017, 7:11:43 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"3/12/2017, 7:12:02 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:12:02 PM"}
+{"responseTime":"13 ms","url":"/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:12:02 PM"}
+{"responseTime":"30 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:12:03 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:12:03 PM"}
+{"responseTime":"2 ms","url":"/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:12:03 PM"}
+{"responseTime":"16 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:12:03 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:12:03 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::ffff:127.0.0.1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:12:03 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:12:06 PM"}
+{"responseTime":"2 ms","url":"/","Request Method":"GET","Ip":"::ffff:127.0.0.1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:12:06 PM"}
+{"responseTime":"4 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:12:06 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:12:06 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::ffff:127.0.0.1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:12:06 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:12:08 PM"}
+{"responseTime":"1 ms","url":"/","Request Method":"GET","Ip":"::ffff:127.0.0.1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:12:08 PM"}
+{"responseTime":"6 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:12:08 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:12:08 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:12:08 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"3/12/2017, 7:12:16 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:12:16 PM"}
+{"responseTime":"12 ms","url":"/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:12:16 PM"}
+{"responseTime":"37 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:12:17 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:12:17 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:12:17 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"3/12/2017, 7:12:35 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:12:35 PM"}
+{"responseTime":"12 ms","url":"/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:12:35 PM"}
+{"responseTime":"32 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:12:36 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:12:36 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:12:36 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"3/12/2017, 7:12:51 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:12:51 PM"}
+{"responseTime":"11 ms","url":"/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:12:51 PM"}
+{"responseTime":"29 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:12:52 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:12:52 PM"}
+{"responseTime":"3 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:12:52 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:13:21 PM"}
+{"responseTime":"2 ms","url":"/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:13:21 PM"}
+{"responseTime":"11 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:13:22 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:13:22 PM"}
+{"responseTime":"1 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:13:22 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:13:24 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:13:24 PM"}
+{"responseTime":"7 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:13:26 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:13:26 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:13:26 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:13:27 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:13:27 PM"}
+{"responseTime":"6 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:13:30 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:13:30 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:13:30 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:13:32 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:13:32 PM"}
+{"responseTime":"4 ms","url":"/jobs/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:13:33 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:13:33 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:13:33 PM"}
+{"responseTime":"6 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:13:34 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:13:34 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:13:34 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:13:58 PM"}
+{"responseTime":"1 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:13:58 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:14:02 PM"}
+{"responseTime":"2 ms","url":"/userprofile/58a20e4021fd127c4fff228b","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:14:02 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:14:03 PM"}
+{"responseTime":"1 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:14:03 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:14:05 PM"}
+{"responseTime":"2 ms","url":"/userprofile/58a20e4021fd127c4fff228b","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:14:05 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:14:06 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:14:06 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:14:07 PM"}
+{"responseTime":"2 ms","url":"/userprofile/58a20e4021fd127c4fff228b","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:14:07 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:14:07 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:14:07 PM"}
+{"responseTime":"7 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:14:37 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:14:37 PM"}
+{"responseTime":"1 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:14:37 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:14:38 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:14:38 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:14:40 PM"}
+{"responseTime":"2 ms","url":"/userprofile/58a20e4021fd127c4fff228b","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:14:40 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:14:41 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:14:41 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:14:42 PM"}
+{"responseTime":"2 ms","url":"/userprofile/58a20e4021fd127c4fff228b","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:14:42 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:14:42 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:14:42 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"3/12/2017, 7:15:40 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:15:40 PM"}
+{"responseTime":"11 ms","url":"/userprofile/58a20e4021fd127c4fff228b","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:15:40 PM"}
+{"responseTime":"30 ms","url":"/profile/","Request Method":"GET","Ip":"::ffff:127.0.0.1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:15:41 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:15:42 PM"}
+{"responseTime":"3 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:15:42 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"3/12/2017, 7:17:34 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:17:34 PM"}
+{"responseTime":"12 ms","url":"/userprofile/58a20e4021fd127c4fff228b","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:17:34 PM"}
+{"responseTime":"27 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:17:35 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:17:35 PM"}
+{"responseTime":"3 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:17:35 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:17:58 PM"}
+{"responseTime":"3 ms","url":"/userprofile/58a20e4021fd127c4fff228b","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:17:58 PM"}
+{"responseTime":"15 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:17:58 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:18:00 PM"}
+{"responseTime":"1 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:18:00 PM"}
+{"responseTime":"11 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:19:56 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:19:56 PM"}
+{"responseTime":"1 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:19:56 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:20:00 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:20:00 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:20:15 PM"}
+{"responseTime":"16 ms","url":"/userprofile/58a20e9821fd127c4fff228c","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:20:15 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"3/12/2017, 7:20:15 PM"}
+{"responseTime":"28 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:20:16 PM"}
+{"responseTime":"7 ms","url":"/jobs/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:20:16 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:20:16 PM"}
+{"responseTime":"3 ms","url":"/userprofile/assets/images/jobpost.jpg","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:20:16 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:20:16 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:20:16 PM"}
+{"responseTime":"6 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:20:18 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:20:18 PM"}
+{"responseTime":"1 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::ffff:127.0.0.1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:20:18 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:20:20 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::ffff:127.0.0.1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:20:20 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:20:54 PM"}
+{"responseTime":"16 ms","url":"/userprofile/58a20e9821fd127c4fff228c","Request Method":"GET","Ip":"::ffff:127.0.0.1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:20:54 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"3/12/2017, 7:20:54 PM"}
+{"responseTime":"28 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:20:55 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:20:56 PM"}
+{"responseTime":"3 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:20:56 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:21:06 PM"}
+{"responseTime":"17 ms","url":"/userprofile/58a20e9821fd127c4fff228c","Request Method":"GET","Ip":"::ffff:127.0.0.1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:21:06 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"3/12/2017, 7:21:06 PM"}
+{"responseTime":"28 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:21:07 PM"}
+{"responseTime":"5 ms","url":"/jobs/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:21:07 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:21:07 PM"}
+{"responseTime":"3 ms","url":"/userprofile/assets/images/jobpost.jpg","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:21:07 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:21:07 PM"}
+{"responseTime":"3 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:21:07 PM"}
+{"responseTime":"6 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:21:09 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:21:09 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::ffff:127.0.0.1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:21:09 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:21:14 PM"}
+{"responseTime":"3 ms","url":"/","Request Method":"GET","Ip":"::ffff:127.0.0.1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:21:14 PM"}
+{"responseTime":"6 ms","url":"/profile/","Request Method":"GET","Ip":"::ffff:127.0.0.1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:21:14 PM"}
+{"responseTime":"8 ms","url":"/profile/","Request Method":"GET","Ip":"::ffff:127.0.0.1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:21:14 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:21:15 PM"}
+{"responseTime":"1 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:21:15 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:21:17 PM"}
+{"responseTime":"1 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:21:17 PM"}
+{"responseTime":"13 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:21:23 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:21:23 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:21:23 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:21:25 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:21:25 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:21:30 PM"}
+{"responseTime":"2 ms","url":"/userprofile/58a20e4021fd127c4fff228b","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:21:30 PM"}
+{"responseTime":"5 ms","url":"/profile/","Request Method":"GET","Ip":"::ffff:127.0.0.1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:21:31 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:21:32 PM"}
+{"responseTime":"1 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::ffff:127.0.0.1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:21:32 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"3/12/2017, 7:22:36 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:22:36 PM"}
+{"responseTime":"12 ms","url":"/userprofile/58a20e4021fd127c4fff228b","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:22:36 PM"}
+{"responseTime":"28 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:22:37 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:22:38 PM"}
+{"responseTime":"3 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:22:38 PM"}
+{"responseTime":"8 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:22:39 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:22:39 PM"}
+{"responseTime":"0 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:22:39 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:22:41 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:22:41 PM"}
+{"responseTime":"8 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:22:43 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:22:43 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:22:43 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"3/12/2017, 7:24:41 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:24:41 PM"}
+{"responseTime":"12 ms","url":"/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:24:41 PM"}
+{"responseTime":"36 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:24:42 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:24:43 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:24:43 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:24:54 PM"}
+{"responseTime":"2 ms","url":"/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:24:54 PM"}
+{"responseTime":"10 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:24:55 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:24:56 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:24:56 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:24:56 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:24:56 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:25:00 PM"}
+{"responseTime":"2 ms","url":"/userprofile/58a20e4021fd127c4fff228b","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:25:00 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:25:01 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:25:01 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"3/12/2017, 7:26:36 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:26:36 PM"}
+{"responseTime":"12 ms","url":"/userprofile/58a20e4021fd127c4fff228b","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:26:36 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:26:37 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:26:37 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:27:04 PM"}
+{"responseTime":"16 ms","url":"/userprofile/58a20e4021fd127c4fff228b","Request Method":"GET","Ip":"::ffff:127.0.0.1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:27:04 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"3/12/2017, 7:27:04 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:27:05 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:27:05 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:27:21 PM"}
+{"responseTime":"16 ms","url":"/userprofile/58a20e4021fd127c4fff228b","Request Method":"GET","Ip":"::ffff:127.0.0.1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:27:21 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"3/12/2017, 7:27:21 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:27:22 PM"}
+{"responseTime":"4 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:27:22 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"3/12/2017, 7:28:05 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:28:05 PM"}
+{"responseTime":"12 ms","url":"/userprofile/58a20e4021fd127c4fff228b","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:28:05 PM"}
+{"responseTime":"29 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:28:06 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:28:08 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:28:08 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"3/12/2017, 7:28:18 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"3/12/2017, 7:28:51 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:28:51 PM"}
+{"responseTime":"12 ms","url":"/userprofile/58a20e4021fd127c4fff228b","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:28:51 PM"}
+{"responseTime":"29 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:28:52 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:28:53 PM"}
+{"responseTime":"3 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:28:53 PM"}
+{"responseTime":"9 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:28:54 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:28:54 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:28:54 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:28:56 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:28:56 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:28:59 PM"}
+{"responseTime":"2 ms","url":"/userprofile/58a20e4021fd127c4fff228b","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:28:59 PM"}
+{"responseTime":"7 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:29:00 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:29:01 PM"}
+{"responseTime":"1 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:29:01 PM"}
+{"responseTime":"10 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:29:14 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:29:14 PM"}
+{"responseTime":"1 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:29:14 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:29:16 PM"}
+{"responseTime":"4 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:29:16 PM"}
+{"responseTime":"7 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:29:18 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:29:18 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:29:18 PM"}
+{"responseTime":"5 ms","url":"/jobs/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:29:45 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:29:45 PM"}
+{"responseTime":"1 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:29:45 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:29:45 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:29:45 PM"}
+{"responseTime":"7 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:29:47 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:29:47 PM"}
+{"responseTime":"1 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:29:47 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"3/12/2017, 7:30:52 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:30:52 PM"}
+{"responseTime":"12 ms","url":"/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:30:52 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:30:53 PM"}
+{"responseTime":"4 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:30:53 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"3/12/2017, 7:31:16 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"3/12/2017, 7:31:23 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:31:23 PM"}
+{"responseTime":"11 ms","url":"/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:31:23 PM"}
+{"responseTime":"28 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:31:24 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:31:24 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:31:24 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:31:47 PM"}
+{"responseTime":"3 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:31:47 PM"}
+{"responseTime":"10 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:31:48 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:31:48 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:31:48 PM"}
+{"responseTime":"5 ms","url":"/jobs/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:32:04 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:32:04 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:32:04 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:32:05 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:32:05 PM"}
+{"responseTime":"8 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:32:07 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:32:07 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:32:07 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:32:17 PM"}
+{"responseTime":"3 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:32:17 PM"}
+{"responseTime":"9 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:32:18 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:32:18 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:32:18 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:32:29 PM"}
+{"responseTime":"3 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:32:29 PM"}
+{"responseTime":"6 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:32:35 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:32:35 PM"}
+{"responseTime":"1 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:32:35 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:33:56 PM"}
+{"responseTime":"2 ms","url":"/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:33:56 PM"}
+{"responseTime":"9 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:33:57 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:33:58 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:33:58 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:34:01 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:34:01 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:34:11 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:34:11 PM"}
+{"responseTime":"7 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:34:15 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:34:15 PM"}
+{"responseTime":"1 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:34:15 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:34:33 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:34:33 PM"}
+{"responseTime":"5 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:34:36 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:34:36 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:34:36 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:35:04 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:35:04 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:35:42 PM"}
+{"responseTime":"2 ms","url":"/aboutus","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:35:42 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:35:43 PM"}
+{"responseTime":"3 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:35:43 PM"}
+{"responseTime":"4 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:35:50 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:35:50 PM"}
+{"responseTime":"1 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:35:50 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:35:51 PM"}
+{"responseTime":"1 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:35:51 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:35:53 PM"}
+{"responseTime":"3 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:35:53 PM"}
+{"responseTime":"6 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:36:05 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:36:05 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:36:05 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:36:28 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:36:28 PM"}
+{"responseTime":"6 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:36:30 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:36:30 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:36:30 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:36:40 PM"}
+{"responseTime":"2 ms","url":"/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:36:40 PM"}
+{"responseTime":"5 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:36:41 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:36:42 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:36:42 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:36:49 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:36:49 PM"}
+{"responseTime":"5 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:36:52 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:36:52 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:36:52 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:39:05 PM"}
+{"responseTime":"3 ms","url":"/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:39:05 PM"}
+{"responseTime":"5 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:39:06 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:39:06 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:39:06 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:39:08 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:39:08 PM"}
+{"responseTime":"6 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:39:13 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:39:13 PM"}
+{"responseTime":"1 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:39:13 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:39:23 PM"}
+{"responseTime":"2 ms","url":"/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:39:23 PM"}
+{"responseTime":"5 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:39:24 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:39:26 PM"}
+{"responseTime":"1 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:39:26 PM"}
+{"responseTime":"6 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:39:28 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:39:28 PM"}
+{"responseTime":"1 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:39:28 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:41:07 PM"}
+{"responseTime":"2 ms","url":"/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:41:07 PM"}
+{"responseTime":"6 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:41:08 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:41:09 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:41:09 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:41:10 PM"}
+{"responseTime":"3 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:41:10 PM"}
+{"responseTime":"4 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:41:11 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:41:12 PM"}
+{"responseTime":"3 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:41:12 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:41:45 PM"}
+{"responseTime":"2 ms","url":"/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:41:45 PM"}
+{"responseTime":"4 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:41:46 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:41:47 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:41:47 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:41:48 PM"}
+{"responseTime":"3 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:41:48 PM"}
+{"responseTime":"7 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:41:49 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:41:49 PM"}
+{"responseTime":"1 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:41:49 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:41:54 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:41:54 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:42:07 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:42:07 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:42:32 PM"}
+{"responseTime":"19 ms","url":"/aboutus","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:42:32 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"3/12/2017, 7:42:33 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:42:33 PM"}
+{"responseTime":"3 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:42:33 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:42:35 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:42:35 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:42:36 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:42:36 PM"}
+{"responseTime":"32 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:44:29 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:44:29 PM"}
+{"responseTime":"1 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::ffff:127.0.0.1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:44:29 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:44:31 PM"}
+{"responseTime":"2 ms","url":"/","Request Method":"GET","Ip":"::ffff:127.0.0.1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:44:31 PM"}
+{"responseTime":"9 ms","url":"/profile/","Request Method":"GET","Ip":"::ffff:127.0.0.1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:44:32 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:44:32 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:44:32 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:44:36 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:44:36 PM"}
+{"responseTime":"10 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:44:44 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:44:44 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::ffff:127.0.0.1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:44:44 PM"}
+{"responseTime":"5 ms","url":"/jobs/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:44:45 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:44:45 PM"}
+{"responseTime":"1 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::ffff:127.0.0.1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:44:45 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:44:52 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::ffff:127.0.0.1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:44:52 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:44:53 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::ffff:127.0.0.1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:44:53 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:44:55 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::ffff:127.0.0.1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:44:55 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:45:12 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::ffff:127.0.0.1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:45:12 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:45:15 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::ffff:127.0.0.1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:45:15 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:45:17 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::ffff:127.0.0.1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:45:17 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:45:20 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::ffff:127.0.0.1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:45:20 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:45:30 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:45:30 PM"}
+{"responseTime":"9 ms","url":"/profile/","Request Method":"GET","Ip":"::ffff:127.0.0.1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:45:30 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:45:31 PM"}
+{"responseTime":"2 ms","url":"/","Request Method":"GET","Ip":"::ffff:127.0.0.1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:45:31 PM"}
+{"responseTime":"4 ms","url":"/profile/","Request Method":"GET","Ip":"::ffff:127.0.0.1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:45:32 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:45:33 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:45:33 PM"}
+{"responseTime":"3 ms","url":"/jobs/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:45:34 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:45:34 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::ffff:127.0.0.1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:45:34 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:45:35 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:45:35 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:45:44 PM"}
+{"responseTime":"3 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:45:44 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:46:22 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::ffff:127.0.0.1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:46:22 PM"}
+{"responseTime":"9 ms","url":"/jobs/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:46:22 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:46:23 PM"}
+{"responseTime":"3 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:46:23 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:46:26 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:46:26 PM"}
+{"responseTime":"8 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:47:52 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:47:52 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::ffff:127.0.0.1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:47:52 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"3/12/2017, 7:48:10 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:48:10 PM"}
+{"responseTime":"11 ms","url":"/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:48:10 PM"}
+{"responseTime":"33 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:48:11 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:48:13 PM"}
+{"responseTime":"3 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:48:13 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:48:16 PM"}
+{"responseTime":"18 ms","url":"/","Request Method":"GET","Ip":"::ffff:127.0.0.1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:48:16 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"3/12/2017, 7:48:16 PM"}
+{"responseTime":"34 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:48:17 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:48:18 PM"}
+{"responseTime":"3 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:48:18 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:48:23 PM"}
+{"responseTime":"3 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:48:23 PM"}
+{"responseTime":"8 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:48:25 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:48:25 PM"}
+{"responseTime":"1 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:48:25 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:48:37 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:48:37 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:48:39 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:48:39 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:48:54 PM"}
+{"responseTime":"4 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::ffff:127.0.0.1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:48:54 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:48:55 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::ffff:127.0.0.1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:48:55 PM"}
+{"responseTime":"6 ms","url":"/profile/","Request Method":"GET","Ip":"::ffff:127.0.0.1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:49:12 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:49:12 PM"}
+{"responseTime":"1 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:49:12 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:49:13 PM"}
+{"responseTime":"3 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:49:13 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:49:15 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:49:15 PM"}
+{"responseTime":"6 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:49:26 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:49:26 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:49:26 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:49:27 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:49:27 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:49:29 PM"}
+{"responseTime":"1 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:49:29 PM"}
+{"responseTime":"10 ms","url":"/profile/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:49:55 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:49:55 PM"}
+{"responseTime":"1 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::ffff:127.0.0.1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:49:55 PM"}
+{"responseTime":"3 ms","url":"/jobs/","Request Method":"GET","Ip":"::ffff:127.0.0.1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:49:56 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:49:56 PM"}
+{"responseTime":"1 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:49:56 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:49:56 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::ffff:127.0.0.1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:49:57 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:49:59 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::ffff:127.0.0.1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:49:59 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:50:17 PM"}
+{"responseTime":"3 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::ffff:127.0.0.1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:50:17 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:50:19 PM"}
+{"responseTime":"3 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::ffff:127.0.0.1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:50:19 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:50:39 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::ffff:127.0.0.1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:50:39 PM"}
+{"level":"info","message":"success","timestamp":"3/12/2017, 7:50:49 PM"}
+{"responseTime":"2 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::ffff:127.0.0.1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"3/12/2017, 7:50:49 PM"}
+{"level":"info","message":"Connected to mongo DB","timestamp":"3/12/2017, 7:51:03 PM"}

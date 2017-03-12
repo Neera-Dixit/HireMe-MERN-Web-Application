@@ -10,15 +10,13 @@ export default class PostJob extends React.Component{
 		this.state={
 			open:true
 		};
-		this.closeModal=this.closeModal.bind(this);
-    this.postNewJob=this.postNewJob.bind(this);
 	}
 
-	closeModal(){
-		 browserHistory.push('/');
+	closeModal = ()=>{
+		 browserHistory.push('/aboutus');
 	}
 
-  postNewJob(e){
+  postNewJob = (e)=>{
     e.preventDefault(); 
     let jobData={
       "name" : this.postName.value,

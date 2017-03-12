@@ -10,19 +10,23 @@ export default class UserProfileDetails extends React.Component {
 		this.state ={
 			userProfile : userProfileStore.findUserByProfileId(this.props.params.id)
 		};
-
-		this.getUserProfile=this.getUserProfile.bind(this);
 	}
 
 	componentWillMount(){
 		userProfileStore.on('userProfileFetched',this.getUserProfile);
 	}
 
+	componentDidMount(){
+		if(!this.state.userProfile)	{
+			userProfileActions.fetchUserProfile();
+		}
+	}
+
 	componentWillUnmount(){
 		userProfileStore.removeListener('userProfileFetched',this.getUserProfile);
 	}
 
-	getUserProfile(){
+	getUserProfile =()=>{
 		this.setState({userProfile : userProfileStore.findUserByProfileId(this.props.params.id)});
 	}
 
@@ -50,7 +54,6 @@ export default class UserProfileDetails extends React.Component {
 	}
 
 	getSkills(skills){
-		console.log(skills);
 		const skillsArr = skills.map((skill,index)=>{
 				return (
 					<div key={index}>

@@ -8,7 +8,6 @@ class UserProfileStore extends EventEmitter {
   constructor(){
     super();
     this.userProfiles=[];
-    this.fetchUserProfileFromDB();
   }
 
   fetchUserProfileFromDB(){
