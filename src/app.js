@@ -10,7 +10,7 @@ import userProfileModel from './models/userModel';
 import jobDescModel from './models/jobModel';
 
 let app = express();
-let port= process.env.port || 7845;
+let port= process.env.PORT || 7845;
 let mongoose=mongooseDBUtil(logger);
 let userProfile=userProfileModel(mongoose);
 let jobDesc=jobDescModel(mongoose);
